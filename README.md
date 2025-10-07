@@ -7,4 +7,4 @@ It supports:
 * Reversible operations and state inspection
 * Designed for testing, extension, and algorithmic experimentation 
 
-  
+** Test and Exception are provided! 
