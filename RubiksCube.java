@@ -1,9 +1,4 @@
-/*
-Author: Rambod (Rammy) Pakravani.
-Student number: 301629708
-rpa89@sfu.ca
-Sources: course materials, w3schools, stackoverflow, YouTube, physical Rubik's cube
-*/
+
 package rubikscube;
 
 import java.io.BufferedReader;
@@ -268,3 +263,4 @@ public class RubiksCube {
         }
     }
 }
+
